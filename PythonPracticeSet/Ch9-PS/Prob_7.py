@@ -1,4 +1,4 @@
-with open("Python Practice Set/Ch9-PS/log.txt") as f:
+with open("PythonPracticeSet/Ch9-PS/log.txt") as f:
     lines = f.readlines()
 
 lineno = 1

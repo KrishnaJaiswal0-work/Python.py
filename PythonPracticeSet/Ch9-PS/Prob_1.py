@@ -1,4 +1,4 @@
-f = open("Python Practice Set/Ch9-PS/poem.txt")
+f = open("PythonPracticeSet/Ch9-PS/poem.txt")
 content = f.read()
 if("twinkle" in content):
     print("The Word twinkle is present in content")
