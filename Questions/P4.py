@@ -1,0 +1,5 @@
+a = (input("Enter the name:"))
+b = input("Enter the number:")
+print(type(a))
+print(type(a+b))
+print(a+b)
