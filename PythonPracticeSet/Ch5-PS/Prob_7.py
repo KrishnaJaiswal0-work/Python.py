@@ -18,4 +18,4 @@ coding.update({name:lang})
 
 print(coding)
  
-#      is code mai 2 baar friend ka same naam tha toh uskilang baad vali lang ke sath upadte ho gai 
+#      is code mai 2 baar friend ka same naam tha toh uski lang baad vali lang ke sath upadte ho gai 

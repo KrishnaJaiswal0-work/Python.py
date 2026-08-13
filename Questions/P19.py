@@ -1,0 +1,21 @@
+s = set()
+
+num1 = int(input("Enter 1st nmuber: "))
+s.add(int(num1))
+num2 = int(input("Enter 2nd nmuber: "))
+s.add(int(num2))
+num3 = int(input("Enter 3rd nmuber: "))
+s.add(int(num3))
+num4 = int(input("Enter 4th nmuber: "))
+s.add(int(num4))
+num5 = int(input("Enter 5th nmuber: "))
+s.add(int(num5))
+num6 = int(input("Enter 6th nmuber: "))
+s.add(int(num6))
+num7 = int(input("Enter 7th nmuber: "))
+s.add(int(num7))
+num8 = int(input("Enter 8th nmuber: "))
+s.add(int(num8))
+
+
+print(s)
