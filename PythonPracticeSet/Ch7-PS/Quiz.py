@@ -1,9 +1,9 @@
-# l = [1, "rampal", "rohan", 23, "@", "babu bahiya"]
+l = [1, "rampal", "rohan", 23, "@", "babu bahiya"]
 
-# i = 0
-# while(i<len(l)):
-#     print(l[i])
-#     i+=1
+i = 0
+while(i<len(l)):
+    print(l[i])
+    i+=1
 
 
 #     Break Statemant
@@ -20,10 +20,10 @@
 #     print(i)
 
 #   Pass
-for i in range(67):
-    pass
+# for i in range(67):
+#     pass
 
-i = 1
-while(i<23):
-    print(i)
-    i+=1
+# i = 1
+# while(i<23):
+#     print(i)
+#     i+=1
